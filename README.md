@@ -1,4 +1,10 @@
 ### Hi there 👋
+Thanks for visiting my profile.
+I'm an application developer currently finishing up a Full Stack Web Development Bootcamp and am willing to collaborate.
+You can reach me by:
+email (dougmoore@use.startmail.com)
+or
+LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 
 <!--
 **AllAroundD/AllAroundD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
