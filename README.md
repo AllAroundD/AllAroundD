@@ -9,6 +9,7 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 ### Connect with me:
 
 [<img align="left" alt="AllAroundD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/doug-moore-dev/)
+[<img align="left" alt="AllAroundD | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/allaroundweb/)
 
 <br />
 
