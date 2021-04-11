@@ -1,6 +1,6 @@
 ### Hi, I'm Doug 👋
 Thanks for visiting my profile.
-I'm an application developer and have just received a Full Stack Web Development certificate and am willing to collaborate.
+I'm an application developer/Full Stack Web Developer and am willing to collaborate.
 You can reach me by:
 email (dougmoore@use.startmail.com)
 or
