@@ -16,29 +16,105 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="ES6" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="ExpressJS" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Redux" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="AntDesign" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ant-design.png?raw=true" />
-<img align="left" alt="GraphQL" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png" />
-<img align="left" alt="npm" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="background-color: white;" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />
-<img align="left" alt="Heroku" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Sass" width="26px" src="https://camo.githubusercontent.com/d9ac5c4a159b0548b3c25ee46ff5aa20f7c9fb348f74c2af1ed4e06e121325ff/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61737465722f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" />
+### Technologies I have used:
+<table style="padding:10px">
+  <tr>
+    <td align="center">
+      <img align="center" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    </td>
+    <td align="center">
+       <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    </td>
+    <td align="center">
+      <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    </td>
+    <td align="center">
+      <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    </td>
+    <td align="center">
+      <img alt="ES6" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />
+    </td>
+    <td align="center">
+      <img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    </td>
+    <td align="center">
+      <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">VS Code</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+    <td align="center">JavaScript</td>
+    <td align="center">ES6</td>
+    <td align="center">React</td>
+    <td align="center">Node.js</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="ExpressJS" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />
+    </td>
+    <td align="center">
+      <img alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+    </td>
+    <td align="center">
+      <img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    </td>
+    <td align="center">
+      <img alt="Redux" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" />
+    </td>
+    <td align="center">
+      <img alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+    </td>
+    <td align="center">
+      <img alt="AntDesign" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ant-design.png?raw=true" />
+    </td>
+    <td align="center">
+      <img alt="GraphQL" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/graphql.png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">ExpressJS</td>
+    <td align="center">SQL</td>
+    <td align="center">MySQL</td>
+    <td align="center">Redux</td>
+    <td align="center">MongoDB</td>
+    <td align="center">AntDesign</td>
+    <td align="center">GraphQL</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="npm" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
+    </td>
+   <td align="center">
+      <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    </td>
+   <td align="center" style="background-color: white;color: white">
+      <img alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    </td>
+   <td align="center">
+      <img alt="Firebase" width="60px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />
+    </td>
+   <td align="center">
+      <img alt="Heroku" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" />
+    </td>
+   <td align="center">
+      <img alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    </td>
+   <td align="center">
+      <img alt="Sass" width="60px" src="https://camo.githubusercontent.com/d9ac5c4a159b0548b3c25ee46ff5aa20f7c9fb348f74c2af1ed4e06e121325ff/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61737465722f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">npm</td>
+    <td align="center">Git</td>
+    <td align="center">GitHub</td>
+    <td align="center">Firebase</td>
+    <td align="center">Heroku</td>
+    <td align="center">Terminal</td>
+    <td align="center">Sass</td>
+  </tr>
+ </table>
 
 <br />
 <br />
