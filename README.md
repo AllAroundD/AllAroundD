@@ -121,7 +121,7 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 
 ---
 
-<img align="left" alt="AllAroundD's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AllAroundD&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="AllAroundD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AllAroundD&show_icons=true&hide_border=true&count_private=true" />
 
 
 
