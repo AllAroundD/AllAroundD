@@ -10,9 +10,10 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 ![](https://img.shields.io/github/stars/AllAroundD?label=%E2%AD%90GitHub%20stars&style=plastic)
 ![](https://komarev.com/ghpvc/?username=AllAroundD&style=plastic)
 
+
 ### Connect with me:
 
-[<img align="left" alt="AllAroundD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white;" />](https://www.linkedin.com/in/doug-moore-dev/)
+[<img align="left" alt="AllAroundD | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="background-color: white;" />](https://www.linkedin.com/in/doug-moore-dev/)
 
 <br />
 
@@ -121,8 +122,11 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 
 ---
 
-<img align="left" alt="AllAroundD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AllAroundD&show_icons=true&hide_border=true&count_private=true" />
+[![Doug's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllAroundD&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+<img align="left" alt="AllAroundD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AllAroundD&show_icons=true&hide_border=true&count_private=true" />
+-->
 
 
 <!--
