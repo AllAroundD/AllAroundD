@@ -121,6 +121,7 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
 <br />
 
 ---
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats-dm.vercel.app/api?username=AllAroundD&show_icons=true&theme=dark&count_private=true"
@@ -132,6 +133,7 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
   />
   <img src="https://github-readme-stats-dm.vercel.app/api?username=AllAroundD&show_icons=true&count_private=true" />
 </picture>
+-->
 <!--
 [![Doug's GitHub stats](https://github-readme-stats-dm.vercel.app/api?username=AllAroundD&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AllAroundD/github-readme-stats)
 -->
