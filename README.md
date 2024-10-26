@@ -103,7 +103,7 @@ LinkedIn (https://www.linkedin.com/in/doug-moore-dev/).
       <img alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </td>
    <td align="center">
-      <img alt="Sass" width="60px" src="https://camo.githubusercontent.com/d9ac5c4a159b0548b3c25ee46ff5aa20f7c9fb348f74c2af1ed4e06e121325ff/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61737465722f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" />
+      <img alt="Sass" width="60px" src="https://camo.githubusercontent.com/950851d5b52a50849458bbb85e213f3796eefa900e7c967d96a58ce067f924be/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" />
     </td>
   </tr>
   <tr>
